@@ -1,3 +1,6 @@
-include ':class_kotlin'
+include ':ex02_handler_kotlin'
+include ':ex02_handler'
+include ':ex01_anr'
+include ':ex01_anr_kotlin'
 include ':app'
 rootProject.name = "My Application"
